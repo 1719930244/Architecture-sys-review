@@ -40,6 +40,17 @@ https://github.com/SpriCoder/SpriCoder-Notes/blob/main/2021-Software-System-Desi
 
 就不放license了，若提到的仓库有侵权删
 
-修正了ppt的图和第二次课堂原话记录
+~~修正了ppt的图和第二次课堂原话记录~~
+
+添加后三道题
 
 ~~背不完了~~
+
+
+
+考题已经上传
+
+考场做了70分就交了，空了第四题和最后一个runtime（因为没地方写了）听天由命把
+
+hhh可怜的学弟们这门课以后都是必修了
+
